@@ -5,6 +5,6 @@ DATE(24-06-24 to 29-06-24)  COUNTING NUMBER OF RED DOTS  IN A IMAGE :
 >	I was increased saturation and contrast so that machine can understand clearly now I given multiple  images then all of them shown above 95% accuracy.
 
 REQUESTED LIBRARIES TO DOWNLOAD:
-> pip install open cv2
-> pip install numpy as np
-> pip install pyplot as plt
+ >pip install open cv2, 
+ >pip install numpy as np, 
+ >pip install pyplot as plt 
